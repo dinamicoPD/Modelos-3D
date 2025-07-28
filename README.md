@@ -33,7 +33,7 @@ Un sistema completo para generar, almacenar y gestionar códigos QR con soporte 
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <url-del-repositorio>
+git clone [<url-del-repositorio>](https://github.com/dinamicoPD/Modelos-3D.git)
 cd visor-3d-qr
 ```
 
